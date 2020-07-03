@@ -1,0 +1,62 @@
+.header-1{
+ background-color:#F4A460;
+padding: 20px;
+ text-align: left;
+ width: 100%;
+height: 40px;
+
+}
+
+body {
+margin: 0 auto;
+ width: 100%;
+ height: 100%;
+}
+
+.main{
+margin: 0 auto;
+width: 980px;
+position: relative;
+}
+
+.logo{
+padding-left: 50px;
+
+float: left;
+
+}
+
+.redes-sociais ul li {
+margin-left: 25px;
+display: inline-block;
+float: left;
+}
+
+.redes-sociais{
+padding-left: 900px;
+
+}
+
+.busca ul li {
+display: inline-block;
+margin-left: 15px;
+}
+
+.busca{
+
+    
+
+
+
+}
+
+
+
+
+
+
+.header-2{
+background-color: white;
+width: 100%;
+border-bottom: 3px solid wheat;
+}
